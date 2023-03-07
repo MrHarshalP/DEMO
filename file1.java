@@ -1,5 +1,5 @@
 
-/* 1. Write a Program to store any ten numbers from the user and display them */ 
+
 
 package one_Dimensional_Array;
 
