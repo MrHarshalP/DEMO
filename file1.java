@@ -9,8 +9,8 @@ public class Store10_nu {
 		// TODO Auto-generated method stub
 		     
 			    int i;
-				System.out.println ("The first 10 natural numbers are:\n");
-				for (i=1;i<=10;i++)
+				System.out.println ("The first 15 natural numbers are:\n");
+				for (i=1;i<=15;i++)
 				{      
 					System.out.println (i);
 				}
